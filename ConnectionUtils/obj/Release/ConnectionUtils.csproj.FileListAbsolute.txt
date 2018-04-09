@@ -1,0 +1,16 @@
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\bin\Release\ConnectionUtils.dll.config
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\bin\Release\ConnectionUtils.dll
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\bin\Release\ConnectionUtils.pdb
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\bin\Release\EntityFramework.dll
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\bin\Release\System.Data.SQLite.dll
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\bin\Release\EntityFramework.xml
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\bin\Release\System.Data.SQLite.xml
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\bin\Release\System.Data.SQLite.dll.config
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\obj\Release\ConnectionUtils.csprojResolveAssemblyReference.cache
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\obj\Release\ConnectionUtils.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\obj\Release\ConnectionUtils.dll
+C:\Users\George\source\repos\ProiectMPP\ConnectionUtils\obj\Release\ConnectionUtils.pdb
